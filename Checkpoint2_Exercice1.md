@@ -4,4 +4,4 @@ Q.1.1 : Le resultat du ping du serveur vers le client est que le serveur ne ping
 
 Apres la modification de l'adresse ip du client en 172.16.10.20, le ping du serveur vers le client fonctionne
 
-https://github.com/Alixspirit/Checkpoint2/issues/2#issue-2418297970
+![350309300-43621df5-ce3c-4642-ab10-f10a56be90df](https://github.com/user-attachments/assets/5daee4df-75fc-4a26-99ce-129412266613)
