@@ -24,7 +24,7 @@
 ![350323760-905b7298-d366-4b91-b5ed-d00cfc42f55b](https://github.com/user-attachments/assets/215cd447-dcf1-4bb7-b8cd-5950916bf798)
 
 # Q.1.5
-* Le client recoit l'adresse ip du serveur DHCP qui est 172.16.10.20. Le DHCP et la configuration automatique est activé sur le client.
+* Le client recoit l'adresse ip du serveur DHCP qui est 172.16.10.20 c'est l'adresse ip qu'elle a deja utilisée. Le DHCP et la configuration automatique est activé sur le client.
 
 ![350328979-d0fd2c01-bd5d-438c-89a1-19dd098f700e](https://github.com/user-attachments/assets/840c51e8-49fd-4a12-8660-60052d9b5f5e)
 
@@ -32,6 +32,7 @@ Q.1.6
 * Le serveur DHCP a une reservation d'adresse ip sur le client avec l'adresse 172.16.10.15
 
 ![350346153-ea0c7be9-1975-41e4-82c9-56434cb42767](https://github.com/user-attachments/assets/1efe9b67-876f-4df9-aef6-08a9f38dfe8a)
+![350696119-81caf1d8-aa9d-44f1-8390-9729e5ca926e](https://github.com/user-attachments/assets/c9a1c1ff-1586-4724-ae3e-61cd6fc75bb7)
 
 Q.1.7
 * Il y a plus d'adresses disponible, on peut connecter un plus grand nombre de machine sur le reseau
