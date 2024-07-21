@@ -8,8 +8,6 @@ https://github.com/Alixspirit/Checkpoint2/blob/main/Images/Activation%20du%20par
 Q.2.2 (en dehors du timing) :
 A l'execution du script main.ps1, une fenetre s'ouvre et se ferme.
 
-Start-Process -FilePath "powershell.exe" -ArgumentList "C:\Temp\AddLocalUsers.ps1" -Verb RunAs -WindowStyle Maximized
-
 Q.2.3 (en dehors du timing) :
 L'option -Verb RunAs sert a avoir une élévation de privileges et a executer le script en tant qu'administrateur.
 
